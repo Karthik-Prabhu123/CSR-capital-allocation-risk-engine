@@ -1,0 +1,4 @@
+__pycache__/
+data/*.db
+output/*.pkl
+.DS_Store
